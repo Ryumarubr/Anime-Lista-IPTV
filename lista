@@ -1,6 +1,46 @@
 As#EXTM3U
 #PLAYLISTV: pltv-logo="http://cm1.narvii.com/6874/caf78285de1c6b91928a703d34a8dc04256684f2_00.jpg" pltv-name="" pltv-description="descrição" pltv-cover="http://cm1.narvii.com/6874/caf78285de1c6b91928a703d34a8dc04256684f2_00.jpg" pltv-author="Ryumaruweb"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Halo%20Legends%20Capa.jpg" group-title="Halo Legends (Dublado)",Halo Legends (Dublado) Episodio 1
+http://tcloud3.azureedge.net/RCServer03/ondemand/HLOLGNDST01EP01.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Halo%20Legends%20Capa.jpg" group-title="Halo Legends (Dublado)",Halo Legends (Dublado) Episodio 2
+http://tcloud3.azureedge.net/RCServer03/ondemand/HLOLGNDST01EP02.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Halo%20Legends%20Capa.jpg" group-title="Halo Legends (Dublado)",Halo Legends (Dublado) Episodio 3
+http://tcloud3.azureedge.net/RCServer03/ondemand/HLOLGNDST01EP03.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Halo%20Legends%20Capa.jpg" group-title="Halo Legends (Dublado)",Halo Legends (Dublado) Episodio 4
+http://tcloud3.azureedge.net/RCServer03/ondemand/HLOLGNDST01EP04.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Halo%20Legends%20Capa.jpg" group-title="Halo Legends (Dublado)",Halo Legends (Dublado) Episodio 5
+http://tcloud3.azureedge.net/RCServer03/ondemand/HLOLGNDST01EP05.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Halo%20Legends%20Capa.jpg" group-title="Halo Legends (Dublado)",Halo Legends (Dublado) Episodio 6
+http://tcloud3.azureedge.net/RCServer03/ondemand/HLOLGNDST01EP06.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Halo%20Legends%20Capa.jpg" group-title="Halo Legends (Dublado)",Halo Legends (Dublado) Episodio 7
+http://tcloud3.azureedge.net/RCServer03/ondemand/HLOLGNDST01EP07.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Halo%20Legends%20Capa.jpg" group-title="Halo Legends (Dublado)",Halo Legends (Dublado) Episodio 8
+http://tcloud3.azureedge.net/RCServer03/ondemand/HLOLGNDST01EP08.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 1
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP01.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 2
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP02.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 3
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP03.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 4
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP04.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 5
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP05.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 6
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP06.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 7
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP07.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 8
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP08.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 9
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP09.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 10
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP10.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 11
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP11.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/ID-0%20Capa.jpg" group-title="ID-0 (Dublado)",ID-0 (Dublado) Episodio 12
+http://tcloud3.azureedge.net/RCServer03/ondemand/ID0T01EP12.mp4?attachment=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Sword%20Gai%20-%20The%20Animation%20Capa.jpg" group-title="Sword Gai: The Animation (Dublado) Temporada 2",Sword Gai: The Animation (Dublado) Temporada 2 Episodio 1
 http://tcloud3.azureedge.net/RCServer04/ondemand/SWRDGATHANMTNT02EP01.mp4?attachment=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://redecanais.bz/imgs-videos/Animes/Sword%20Gai%20-%20The%20Animation%20Capa.jpg" group-title="Sword Gai: The Animation (Dublado) Temporada 2",Sword Gai: The Animation (Dublado) Temporada 2 Episodio 2
